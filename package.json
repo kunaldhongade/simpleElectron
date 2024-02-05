@@ -1,0 +1,19 @@
+{
+  "name": "simpleelectron",
+  "version": "1.0.0",
+  "description": "simple electron app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunaldhongade/simpleElectron.git"
+  },
+  "author": "Kunal Dhongade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunaldhongade/simpleElectron/issues"
+  },
+  "homepage": "https://github.com/kunaldhongade/simpleElectron#readme"
+}
